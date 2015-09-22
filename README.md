@@ -7,7 +7,6 @@ Essentials
 - sshrc - https://github.com/Russell91/sshrc
 - Awesome Shell - https://github.com/alebcay/awesome-shell
 - htop - https://github.com/hishamhm/htop
-- 
 
 ### AWS
 - AWS CLI - https://github.com/aws/aws-cli
